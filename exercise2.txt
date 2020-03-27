@@ -126,13 +126,13 @@ sn <- is <- ztf8 <- knows <- ztf7 <- knows <- ztf6 <- knows <- ztf5 <- start
 sn <- is <- ztf4 <- knows <- ztf3 <- knows <- ztf2 <- knows <- ztf1 <- start
 
 
-****************************************
+******************************************
 
 QUERY 3:
 Vertices connected to ztf4  -> 2
 The vertices are sn ztf3 
 
-****************************************
+******************************************
 
 QUERY 4:
 Nodes and edges in subgraph:
